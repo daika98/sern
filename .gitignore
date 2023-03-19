@@ -3,4 +3,4 @@
 /.idea
 .idea/
 *.env
-*.json
+package*.json
