@@ -1,0 +1,6 @@
+code
+0: Missing parameter
+1: User not exits
+2: password not correct
+3: successfully
+4: Email exits
